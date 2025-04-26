@@ -29,6 +29,9 @@
 ehthumbs.db
 Thumbs.db
 
+#ignore uproject
+*.uproject
+
 # Mac OS X
 .DS_Store
 .DS_Store?
