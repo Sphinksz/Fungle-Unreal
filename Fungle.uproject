@@ -17,15 +17,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "ActorLocker",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9280e03740c64592ad81b9fe751cec7e"
 		}
 	]
 }
