@@ -20,4 +20,5 @@ AFungleGameMode::AFungleGameMode()
     {
         PlayerControllerClass = PlayerControllerBPClass.Class;
     }
+	
 }
