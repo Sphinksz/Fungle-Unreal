@@ -7,10 +7,8 @@
 
 AFungleGameMode::AFungleGameMode()
 {
-	// use our custom PlayerController class
 	PlayerControllerClass = AFunglePlayerController::StaticClass();
-
-	// set default pawn class to our Blueprinted character
+	
 	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnBPClass(TEXT("/Game/TopDown/Blueprints/BP_TopDownCharacter"));
 	if (PlayerPawnBPClass.Class != nullptr)
 	{
@@ -18,7 +16,7 @@ AFungleGameMode::AFungleGameMode()
 	}
     
     static ConstructorHelpers::FClassFinder<APlayerController> PlayerControllerBPClass(TEXT("/Game/TopDown/Blueprints/BP_TopDownPlayerController"));
-    if(PlayerControllerBPClass.Class != NULL)
+    if(PlayerControllerBPClass.Class != nullptr)
     {
         PlayerControllerClass = PlayerControllerBPClass.Class;
     }
