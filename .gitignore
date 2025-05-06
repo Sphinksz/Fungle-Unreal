@@ -52,4 +52,5 @@ Session.vim
 
 # Visual Studio
 .vs
-/Plugins/Developer/RiderLink/
+/Plugins/Developer/*
+/Plugins/Developer/RiderLink/**
