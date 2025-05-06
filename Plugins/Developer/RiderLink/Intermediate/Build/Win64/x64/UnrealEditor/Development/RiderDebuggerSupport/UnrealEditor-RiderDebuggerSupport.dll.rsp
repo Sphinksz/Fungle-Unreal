@@ -35,8 +35,8 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\Newbo\OneDrive\Documents\Unreal Projects\Fungle\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\Module.RiderDebuggerSupport.cpp.obj"
-"C:\Users\Newbo\OneDrive\Documents\Unreal Projects\Fungle\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\Default.rc2.res"
+"C:\Users\85285\Documents\Unreal Projects\Fungle-Unreal\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\Module.RiderDebuggerSupport.cpp.obj"
+"C:\Users\85285\Documents\Unreal Projects\Fungle-Unreal\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -65,7 +65,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\Newbo\OneDrive\Documents\Unreal Projects\Fungle\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderDebuggerSupport.dll"
-/IMPLIB:"C:\Users\Newbo\OneDrive\Documents\Unreal Projects\Fungle\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\UnrealEditor-RiderDebuggerSupport.sup.lib"
-/PDB:"C:\Users\Newbo\OneDrive\Documents\Unreal Projects\Fungle\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderDebuggerSupport.pdb"
+/OUT:"C:\Users\85285\Documents\Unreal Projects\Fungle-Unreal\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderDebuggerSupport.dll"
+/IMPLIB:"C:\Users\85285\Documents\Unreal Projects\Fungle-Unreal\Plugins\Developer\RiderLink\Intermediate\Build\Win64\x64\UnrealEditor\Development\RiderDebuggerSupport\UnrealEditor-RiderDebuggerSupport.sup.lib"
+/PDB:"C:\Users\85285\Documents\Unreal Projects\Fungle-Unreal\Plugins\Developer\RiderLink\Binaries\Win64\UnrealEditor-RiderDebuggerSupport.pdb"
 /ignore:4078
