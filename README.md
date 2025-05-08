@@ -1,7 +1,8 @@
 # Project: Fungle-Unreal  
-## Goal:  
-### Unreal Engine port from Unity  
+## Goal: Unreal Engine port from Unity  
 ## Based On Open Source Project: 
 ### https://v3.globalgamejam.org/2023/games/fungle-1  
 ## Team  
-### Blake Swing, Junhao Chen, Connor Simmons  
+### (Programmer/Rigger) Blake Swing, (Programmer) Junhao Chen, (Programmer) Connor Simmons
+  
+# Credits to the original Team who created the game in Unity. Team Piel.
