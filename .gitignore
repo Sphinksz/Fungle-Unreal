@@ -5,12 +5,13 @@
 # Do not ignore git files in the root of the repo.
 !/.git*
 
+# Do not ignore current project's `.uproject`.
+!/*.uproject
+
 # Do not ignore source, config and plugins dirs.
 !/Source/**
 !/Config/**
 !/Plugins/**
-
-/Plugins/Developer/RiderLink/**
 
 # Only allow .uasset and .umap files from /Content dir.
 # They're tracked by git-lfs, don't forget to track other
@@ -42,7 +43,7 @@ Thumbs.db
 *~
 .directory
 
-# vim
+# vim                     hjnuhhjj
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
@@ -51,3 +52,4 @@ Session.vim
 
 # Visual Studio
 .vs
+/Plugins/Developer/RiderLink/
