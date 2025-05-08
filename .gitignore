@@ -43,7 +43,7 @@ Thumbs.db
 *~
 .directory
 
-# vim
+# vim                     hjnuhhjj
 [._]*.s[a-w][a-z]
 [._]s[a-w][a-z]
 *.un~
@@ -52,5 +52,4 @@ Session.vim
 
 # Visual Studio
 .vs
-/Plugins/Developer/*
-/Plugins/Developer/RiderLink/**
+/Plugins/Developer/RiderLink/
